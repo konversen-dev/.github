@@ -12,19 +12,19 @@
 
 ## 🧩 About KONVERSEN
 
-**Konversen** adalah platform Predictive Lead Scoring berbasis Machine Learning yang dirancang untuk membantu tim sales perbankan menentukan prioritas prospek secara lebih akurat. Tantangan utama dalam kampanye telemarketing adalah rendahnya tingkat keberhasilan—hanya sekitar 11% dari lebih dari 41 ribu kontak yang berakhir dengan langganan, sementara sebagian besar panggilan tidak menghasilkan respons. Hal ini menunjukkan perlunya pendekatan berbasis data untuk meningkatkan efisiensi.
+**Konversen** is a Machine Learning–powered Predictive Lead Scoring platform designed to help banking sales teams prioritize prospects more accurately. Traditional telemarketing campaigns face a major challenge only about **11%** of more than **41,000 contacts** convert to subscriptions, meaning the majority of calls generate no results. This highlights the need for a data-driven approach to improve efficiency.
 
-Melalui model klasifikasi yang memanfaatkan data historis nasabah dan kampanye, KONVERSEN memprediksi probabilitas berlangganan dan memberikan peringkat prospek yang dapat langsung digunakan oleh tim sales. Platform ini terintegrasi dengan fitur pencarian, pembaruan status, pencatatan interaksi, dan kolaborasi tim, sehingga proses penjualan menjadi lebih terarah, cepat, dan efektif.
+Using a classification model trained on historical customer and campaign data, **Konversen predicts the likelihood of subscription and ranks each prospect** based on their probability score. The platform is integrated with features such as search, status updates, interaction logging, and team collaboration, enabling sales processes to become more focused, faster, and more effective.
 
-KONVERSEN membantu mengurangi panggilan sia-sia, meningkatkan fokus pada prospek potensial, dan memperkuat pengambilan keputusan berbasis data dalam operasional sales perbankan.
+Konversen helps reduce wasted calls, increase attention on high-potential prospects, and strengthen data-driven decision-making within banking sales operations.
 
-> ⭐ *Our mission is to empower banking sales teams with intelligent insights that deliver real impact.*  
+> ⭐ *Our mission is to empower banking sales teams with intelligent insights that create real impact.*
 
 ---
 
 ## 👥 Team Members (A25-CS079)
 
-Konversen dikembangkan oleh tim multidisiplin yang terdiri dari talenta terbaik dalam bidang Machine Learning, Front-End, Back-End, dan UI/UX.
+Konversen was developed by a multidisciplinary team consisting of skilled talent in Machine Learning, Front-End Development, Back-End Development, and UI/UX.
 
 <p align="center">
   <b>📘 Meet The Team</b>
@@ -100,7 +100,6 @@ Konversen dikembangkan oleh tim multidisiplin yang terdiri dari talenta terbaik 
   </tr>
 </table>
 
-
 ---
 
 ## 📦 Repositories & Featured Projects
@@ -109,40 +108,27 @@ Konversen dikembangkan oleh tim multidisiplin yang terdiri dari talenta terbaik 
   <b>🔎 Explore Our Repositories</b>
 </p>
 
-### 🔶 **Konversen-Back End**
-REST API untuk pengelolaan leads, scoring engine, authentication, dan data pipeline.  
-<a href="https://github.com/konversify-dev" target="_blank">
-  <img src="https://img.shields.io/badge/Open%20Repository-181818?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+### 🔶 **Konversen - Back End**
+
+REST API for lead management, scoring engine, authentication, and data pipeline. <a href="https://github.com/konversify-dev" target="_blank"> <img src="https://img.shields.io/badge/Open%20Repository-181818?style=for-the-badge&logo=github&logoColor=white" /> </a>
 
 ---
 
-### 🔶 **Konversen-Frontend**
-Dashboard interaktif untuk Banking Sales, dilengkapi scoring visualization dan insights.  
-<a href="https://github.com/konversify-dev/FRONTEND" target="_blank">
-  <img src="https://img.shields.io/badge/Open%20Repository-181818?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+### 🔶 **Konversen - Front End**
+
+Interactive dashboard for banking sales, complete with scoring visualization and insights. <a href="https://github.com/konversify-dev/FRONTEND" target="_blank"> <img src="https://img.shields.io/badge/Open%20Repository-181818?style=for-the-badge&logo=github&logoColor=white" /> </a>
 
 ---
 
-### 🔶 **Konversen-Machine Learning**
-Machine Learning models untuk predictive lead scoring.  
-<a href="https://github.com/konversify-dev/Machine-Learning" target="_blank">
-  <img src="https://img.shields.io/badge/Open%20Repository-181818?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+### 🔶 **Konversen - Machine Learning**
 
----
-
-## 🌟 Roadmap Features
-
-- 🔐 Role-based Access Control (RBAC)  
-- 🧠 AI-driven Lead Scoring Optimization  
-- 🔄 CRM Integration  
-- 📊 Real-time Scoring Dashboard  
-- 🔔 Lead Notification System  
+Machine Learning models for predictive lead scoring. <a href="https://github.com/konversify-dev/Machine-Learning" target="_blank"> <img src="https://img.shields.io/badge/Open%20Repository-181818?style=for-the-badge&logo=github&logoColor=white" /> </a>
 
 ---
 
 <p align="center">
-  <b>Made with ❤️ by Team A25-CS079</b>  
+  <b>Made with ❤️ by Team A25-CS079</b>
 </p>
+
+---
+
