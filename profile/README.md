@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/konversify-dev/.github/main/Banner.png" width="90%" />
+  <img width="3780" height="1890" alt="banner" src="https://github.com/user-attachments/assets/6b80711c-ef3d-4d60-be24-de644a4f4054" />
 </p>
+
 
 <h1 align="center">K O N V E R S E N</h1>
 
@@ -109,7 +110,7 @@ Konversen was developed by a multidisciplinary team consisting of skilled talent
 ### 🔶 **Konversen - Back End**
 
 REST API for lead management, scoring engine, authentication, and data pipeline.     
-<a href="https://github.com/konversify-dev/machine-backend" target="_blank">   
+<a href="https://github.com/konversen-dev/machine-backend" target="_blank">   
 <img src="https://img.shields.io/badge/Open%20Repository-181818?style=for-the-badge&logo=github&logoColor=white" /> 
 </a>
 
@@ -118,7 +119,7 @@ REST API for lead management, scoring engine, authentication, and data pipeline.
 ### 🔶 **Konversen - Front End**
 
 Interactive dashboard for banking sales, complete with scoring visualization and insights.     
-<a href="https://github.com/konversify-dev/konversen-frontend" target="_blank">   
+<a href="https://github.com/konversen-dev/konversen-frontend" target="_blank">   
 <img src="https://img.shields.io/badge/Open%20Repository-181818?style=for-the-badge&logo=github&logoColor=white" /> 
 </a>
 
@@ -127,7 +128,7 @@ Interactive dashboard for banking sales, complete with scoring visualization and
 ### 🔶 **Konversen - Machine Learning**
 
 Machine Learning models for predictive lead scoring.    
-<a href="https://github.com/konversify-dev/machine-learning" target="_blank">  
+<a href="https://github.com/konversen-dev/machine-learning" target="_blank">  
 <img src="https://img.shields.io/badge/Open%20Repository-181818?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
